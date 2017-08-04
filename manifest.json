@@ -34,6 +34,9 @@
     "storage",
     "app.window.fullscreen",
     "app.window.fullscreen.overrideEsc",
+    "webRequest", 
+    "webRequestBlocking", 
+    "\u003Call_urls>",
     {"fileSystem": ["directory","retainEntries"]}
   ],
   "optional_permissions": [ "audioCapture", "videoCapture" ]
